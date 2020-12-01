@@ -8,7 +8,7 @@ Designed and built an App on Android Studio with Java and SQLite.
 5. You can manually set your own timetable, it's a bit boring, but it is just one time.
 
 Link to download the app is:  
-APK: http://bit.ly/75_percent
+APK: [Get The app](https://drive.google.com/file/d/1bPcQ9GLTGL953OhZo4YpIUP6bPuVoxgc/view?usp=sharing)
 This app is in its very early stage, I will keep updating it with time.
 
 # Screenshots of App
